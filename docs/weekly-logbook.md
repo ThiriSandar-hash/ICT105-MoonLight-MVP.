@@ -19,9 +19,12 @@ What We Learned
 
 ### Evidence of Work
 - GitHub repository link: https://github.com/ThiriSandar-hash
-- Screenshot: Added repository and issue screenshots
-- File created: README.md, team-profile.md, idea-log.md
-- Commit link: [Paste your commit link]
+- Screenshot: <img width="257" height="542" alt="Screenshot 2026-06-15 230243" src="https://github.com/user-attachments/assets/3c41d658-6fe2-4abb-99f3-9e0021744f42" />  <img width="797" height="526" alt="Screenshot 2026-06-15 230331" src="https://github.com/user-attachments/assets/1140c3a5-767b-44a3-9d43-1d20202cb178" />
+
+
+
+- File created: README.md, docs/team-profile.md, docs/idea-log.md, docs/weekly-logbook.md
+- Commit link: https://github.com/ThiriSandar-hash/ICT105-MoonLight-MVP./commits?author=ThiriSandar-hash&since=2026-05-31&until=2026-06-15
 
 ### Decision Made This Week
 Our team decided to develop a simple student budget tracker application as the main IT venture idea.
