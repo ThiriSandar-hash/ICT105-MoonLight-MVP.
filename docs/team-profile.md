@@ -10,7 +10,7 @@ Moon Light
 ## Team Skills Inventory
 | Member | Technical Skills | Design Skills | Business/Communication Skills |
 |---|---|---|---|
-| Thiri Sandar | | Spreadsheet | Interview Questions | 
+| Thiri Sandar | Spreadsheet | | Interview Questions | 
 | Nang Woo Non | Basic HTML |  Canva |  Presentation |
 | Thiri Thant |  JavaScript Beginner |  UI Layout |  |
 ## Team Working Agreement
