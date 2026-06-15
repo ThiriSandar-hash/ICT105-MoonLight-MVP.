@@ -10,9 +10,9 @@ Moon Light
 ## Team Skills Inventory
 | Member | Technical Skills | Design Skills | Business/Communication Skills |
 |---|---|---|---|
-| Thiri Sandar | Spreadsheet | Interview Questions | 
-| Nang Woo Non | Presentation | Canva | Team Coordination |
-| Thiri Thant | UI Layout | JavaScript Beginner |  Basic HTML |
+| Thiri Sandar | | Spreadsheet | Interview Questions | 
+| Nang Woo Non | Basic HTML |  Canva |  Presentation |
+| Thiri Thant |  JavaScript Beginner |  UI Layout |  |
 ## Team Working Agreement
 1. Meeting schedule: Every Monday after class
 2. Communication channel: LINE group
