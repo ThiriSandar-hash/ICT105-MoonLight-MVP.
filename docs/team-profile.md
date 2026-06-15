@@ -12,7 +12,7 @@ Moon Light
 |---|---|---|---|
 | Thiri Sandar | Spreadsheet | | Interview Questions | 
 | Nang Woo Non | Basic HTML |  Canva |  Presentation |
-| Thiri Thant |  JavaScript Beginner |  UI Layout |  |
+| Thiri Thant |  JavaScript Beginner |  UI Layout | Team Coordination |
 ## Team Working Agreement
 1. Meeting schedule: Every Monday after class
 2. Communication channel: LINE group
