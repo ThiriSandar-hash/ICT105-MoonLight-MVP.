@@ -18,7 +18,7 @@ What We Learned
 2. It took time to decide the best project idea for the team.
 
 ### Evidence of Work
-- GitHub repository link: 
+- GitHub repository link: https://github.com/ThiriSandar-hash
 - Screenshot: Added repository and issue screenshots
 - File created: README.md, team-profile.md, idea-log.md
 - Commit link: [Paste your commit link]
