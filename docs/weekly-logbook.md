@@ -62,7 +62,8 @@ Although Queue Booking is a useful idea, it received a lower NUF score (11) and 
 - Opportunity scan file: docs/opportunity-scan.md
 - NUF scoring file: https://docs.google.com/spreadsheets/d/1LyuHrQRV_BVuUXKZERxcxuDemLAOxVTbWPW4-_gmqK0/edit?usp=sharing
 - Selected opportunity file: docs/selected-opportunity.md
-- GitHub issue screenshot: [Insert Screenshot]
+- GitHub issue screenshot: <img width="1918" height="1078" alt="Screenshot 2026-06-17 161744" src="https://github.com/user-attachments/assets/b779840f-047a-4ae4-8627-17c7e7932761" />
+
 - Commit link: [Insert Commit Link]
 
 ### Plan for Lab 03
