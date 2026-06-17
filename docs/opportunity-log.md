@@ -17,9 +17,9 @@
 ## Technology Feasibility Mapping
 | Idea | Prototype Type | Tools Needed | Data Needed | Difficulty | Feasible? |
 |---|---|---|---|---|---|
-| Budget Tracker | | | | Low / Medium / High | Yes / No |
-| Study Plannar | | | | Low / Medium / High | Yes / No |
-| Event Finder | | | | Low / Medium / High | Yes / No |
-| Lost & Found System  | | | | Low / Medium / High | Yes / No |
-| Queue Booking | | | | Low / Medium / High | Yes / No |
-| Internship Dashboard | | | | Low / Medium / High | Yes / No |=
+| Budget Tracker | Web App | HTML/CSS/JS | Expenses | Low | Yes |
+| Study Plannar | Web App | HTML/CSS/JS | Tasks | Low  | Yes |
+| Event Finder | Web App | HTML/CSS/JS | Events | Medium | Yes |
+| Lost & Found System  | Landing App | Airtable | Item reports | Low | Yes |
+| Queue Booking | Web App | HTML/CSS/JS | Queue Number | Medium  | Yes |
+| Internship Dashboard | Dashboard | Google Sheets | Applications |  Medium | Yes |
