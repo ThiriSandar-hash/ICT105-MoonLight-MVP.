@@ -56,20 +56,27 @@ The next step is to design the Ul wireframe, conduct basic user research, and st
 
 # README Update Template After Lab 03
 
-Add or update these sections in your repository README.md.
-
 ## Customer Problem Discovery Summary
-In Lab 03, our team collected early problem evidence from target users. The purpose was to confirm whether our selected problem from Lab 02 is real and important.
+
+In Lab 03, our team collected early problem evidence from students and young professionals. The purpose was to confirm whether the problem of expense management is real and important. The interviews showed that many users have difficulty tracking their expenses and often spend more than they planned.
 
 ## Target Respondents
-Describe who you interviewed or surveyed.
+
+We interviewed 10 respondents, including students and young professionals. They are our target users because they regularly manage personal expenses and need a simple way to track their spending and budget.
 
 ## Main Evidence Found
-Summarize the repeated pain points and current workarounds.
+
+The interviews revealed several repeated pain points:
+
+- Most respondents do not record their expenses regularly and rely on memory.
+- Many respondents often spend more than their planned budget.
+- Current methods such as notebooks, phone notes, and Excel are inconvenient and time-consuming.
+- Most respondents do not use a budgeting application and want a simpler solution.
 
 ## Updated Problem Statement
-Write your revised problem statement based on evidence.
+
+Students and young professionals struggle to manage their expenses because they do not record spending regularly and often rely on memory. Existing methods are inconvenient and difficult to maintain, resulting in poor financial awareness and overspending.
 
 ## Decision for Next Step
-Explain whether the team will continue, narrow the target segment, revise the problem, or change direction.
 
+The team decided to continue with the Budget Tracker App idea. Based on the interview evidence, we will focus on creating an MVP with simple expense recording, spending summaries, and budget tracking features that are easy and quick to use.
