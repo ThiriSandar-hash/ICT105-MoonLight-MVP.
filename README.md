@@ -14,11 +14,11 @@ Moon Light
 | Nang Woo Non | Product Lead + Validation Lead | Define problem, target users, and value proposition |
 | Thiri Thant | UX/UI Lead + Technical Lead | Manage repository and Design interface |
 ## Initial Problem Area
-Many people cannot manage their expenses properly and often overspend.
+Many university students cannot manage their expenses properly and often overspend.
 ## Target Users
-People who want to track their daily spending and budget.
+University students who want to track their daily spending and budget.
 ## Initial IT Venture Direction
-Develop a simple budget tracker app that helps people record and manage expenses easily.
+Develop a simple budget tracker app that helps university students record and manage expenses easily.
 ## Technology Possibility
 Possible technologies:
 - Web application
@@ -42,9 +42,9 @@ In lab 1, our team completed the repository setup, assigned team roles, and sele
 ## Next Step
 In lab 2, our team will create the initial UI wireframe, conduct basic user research, and begin developing the prototype struture.
 ## Initial Problem Area
-Many people have difficulty managing their daily expenses and often spend more than their budget. Existing methods are inconvenient or difficult to maintain consistently.
+Many university students have difficulty managing their daily expenses and often spend more than their budget. Existing methods are inconvenient or difficult to maintain consistently.
 ## Target Users
- Students who want to manage their expenses.
+ University students who want to manage their expenses.
  Young professionals who need to track spending and savings.
  Anyone looking for a simple budgeting solution.
 ## Selected IT Venture Direction
