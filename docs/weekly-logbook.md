@@ -105,7 +105,7 @@ We decided to focus our MVP on simple expense recording, spending summaries, and
 - Customer questions file: Customer Interview Questions.pdf
 - Raw responses file: /data/raw-responses.md
 - Assumption-evidence table: /docs/problem-notes.md
-- Commit link: [Paste your commit link here]
+- Commit link: [https://github.com/ThiriSandar-hash/ICT105-MoonLight-MVP.]
 
 ### Plan for Lab 04
 
