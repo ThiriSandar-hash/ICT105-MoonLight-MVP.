@@ -74,9 +74,9 @@ The team will conduct customer problem discovery by interviewing students and yo
 ## Lab 03: Customer Problem Discovery
 
 ### What We Completed
-1.
-2.
-3.
+1.Chose the target users for our project.
+2.Created customer discovery questions.
+3.Collected responses and update our GitHub repository.
 
 ### What We Learned About the Problem
 1.
