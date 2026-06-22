@@ -7,7 +7,7 @@
 | 3 | People use simple methods instead of budgeting applications to manage their finances. | Most respondents said they use a notebook, phone notes, Excel, or simply remember their expenses rather than using a dedicated budgeting app. | Interview | Moderate | Keep |
 
 ## Evidence Strength Guide
-- Weak: team opinion or friend feedback only
-- Moderate: repeated interview pattern from target users
-- Strong: users show behavior, complete a task, sign up, or provide specific evidence
+- Assumption 1: shows that many users do not regularly track their expenses and often rely on memory, which causes difficulty in managing money.
+- Assumption 2: proves that users frequently exceed their planned budget because they do not monitor their spending consistently.
+- Assumption 3: indicates that most users still use simple methods such as notebooks, phone notes, or Excel instead of dedicated budgeting applications, showing the need for an easier budgeting solution.
 
