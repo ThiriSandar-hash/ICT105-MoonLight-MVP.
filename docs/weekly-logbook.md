@@ -101,7 +101,7 @@ We decided to focus our MVP on simple expense recording, spending summaries, and
 
 ### Evidence of Work
 
-- GitHub repository link: [Paste your GitHub repository link here]
+- GitHub repository link: https://github.com/ThiriSandar-hash
 - Customer questions file: Customer Interview Questions.pdf
 - Raw responses file: /data/raw-responses.md
 - Assumption-evidence table: /docs/problem-notes.md
