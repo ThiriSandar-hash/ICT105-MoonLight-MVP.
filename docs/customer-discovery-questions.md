@@ -4,8 +4,8 @@
 Budget Tracker
 
 ## Target Respondent
--University students.
--Young professionals.
+1. University students
+2. Young professionals
 
 ## Consent and Context
 1. May we ask you a few questions for our ICT105 course project?
