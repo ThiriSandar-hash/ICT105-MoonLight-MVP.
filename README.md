@@ -53,3 +53,23 @@ Our team selected to develop a Budget Tracker application. The system will allow
 The team has completed the repository setup, assigned team roles, and finalized the project idea. We also identified the target users and gathered initial requirements for the application.
 ## Next Step
 The next step is to design the Ul wireframe, conduct basic user research, and start developing the prototype structure and core features.
+
+# README Update Template After Lab 03
+
+Add or update these sections in your repository README.md.
+
+## Customer Problem Discovery Summary
+In Lab 03, our team collected early problem evidence from target users. The purpose was to confirm whether our selected problem from Lab 02 is real and important.
+
+## Target Respondents
+Describe who you interviewed or surveyed.
+
+## Main Evidence Found
+Summarize the repeated pain points and current workarounds.
+
+## Updated Problem Statement
+Write your revised problem statement based on evidence.
+
+## Decision for Next Step
+Explain whether the team will continue, narrow the target segment, revise the problem, or change direction.
+
