@@ -68,3 +68,39 @@ Although Queue Booking is a useful idea, it received a lower NUF score (11) and 
 
 ### Plan for Lab 03
 The team will conduct customer problem discovery by interviewing students and young professionals about their spending habits and budgeting challenges. We will collect feedback, identify common problems, and validate whether the proposed Budget Tracker solution addresses real user needs.
+
+# Weekly Venture Logbook
+
+## Lab 03: Customer Problem Discovery
+
+### What We Completed
+1.
+2.
+3.
+
+### What We Learned About the Problem
+1.
+2.
+3.
+
+### What Evidence We Collected
+- Number of respondents/interviews:
+- Evidence file:
+- Key repeated pattern:
+
+### What We Changed Based on Evidence
+
+### Problems or Difficulties
+1.
+2.
+
+### Evidence of Work
+- GitHub repository link:
+- Customer questions file:
+- Raw responses file:
+- Assumption-evidence table:
+- Commit link:
+
+### Plan for Lab 04
+Write how the team will define customer segment, persona, and user stories.
+
