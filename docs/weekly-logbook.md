@@ -67,40 +67,47 @@ Although Queue Booking is a useful idea, it received a lower NUF score (11) and 
 - Commit link: https://github.com/ThiriSandar-hash/ICT105-MoonLight-MVP.
 
 ### Plan for Lab 03
-The team will conduct customer problem discovery by interviewing students and young professionals about their spending habits and budgeting challenges. We will collect feedback, identify common problems, and validate whether the proposed Budget Tracker solution addresses real user needs.
 
 # Weekly Venture Logbook
 
 ## Lab 03: Customer Problem Discovery
 
 ### What We Completed
-1.Chose the target users for our project.
-2.Created customer discovery questions.
-3.Collected responses and update our GitHub repository.
+
+1. Chose students and young professionals as the target users.
+2. Created customer interview questions and conducted interviews with 10 respondents.
+3. Collected interview responses and updated the GitHub repository.
 
 ### What We Learned About the Problem
-1.
-2.
-3.
+
+1. Most respondents do not record their expenses regularly and rely on memory.
+2. Many respondents often spend more than their planned budget.
+3. Existing methods such as notebooks, phone notes, and Excel are inconvenient and time-consuming.
 
 ### What Evidence We Collected
-- Number of respondents/interviews:
-- Evidence file:
+
+- Number of respondents/interviews: 10
+- Evidence file: Interview Responses.pdf / Problem Notes.md
 - Key repeated pattern:
+  Most respondents cannot remember their expenses, often overspend, and need an easier way to track their spending.
 
 ### What We Changed Based on Evidence
 
+We decided to focus our MVP on simple expense recording, spending summaries, and budget tracking. The application should be easier and faster to use than notebooks, phone notes, or Excel spreadsheets.
+
 ### Problems or Difficulties
-1.
-2.
+
+1. Some respondents gave short answers, making it difficult to gather detailed information.
+2. It was challenging to find respondents who regularly track their expenses.
 
 ### Evidence of Work
-- GitHub repository link:
-- Customer questions file:
-- Raw responses file:
-- Assumption-evidence table:
-- Commit link:
+
+- GitHub repository link: [Paste your GitHub repository link here]
+- Customer questions file: Customer Interview Questions.pdf
+- Raw responses file: Interview Responses.pdf
+- Assumption-evidence table: Problem Notes.md
+- Commit link: [Paste your commit link here]
 
 ### Plan for Lab 04
-Write how the team will define customer segment, persona, and user stories.
 
+The team will define who the target users are, create personas to understand their behaviors, and write user stories to identify what features they need in the app.
