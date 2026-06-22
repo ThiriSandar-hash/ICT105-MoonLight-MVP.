@@ -87,9 +87,8 @@ Although Queue Booking is a useful idea, it received a lower NUF score (11) and 
 ### What Evidence We Collected
 
 - Number of respondents/interviews: 10
-- Evidence file: Interview Responses.pdf / Problem Notes.md
-- Key repeated pattern:
-  Most respondents cannot remember their expenses, often overspend, and need an easier way to track their spending.
+- Evidence file: /data/raw-responses.md
+- Key repeated pattern: Most respondents cannot remember their expenses, often overspend, and need an easier way to track their spending.
 
 ### What We Changed Based on Evidence
 
@@ -104,8 +103,8 @@ We decided to focus our MVP on simple expense recording, spending summaries, and
 
 - GitHub repository link: [Paste your GitHub repository link here]
 - Customer questions file: Customer Interview Questions.pdf
-- Raw responses file: Interview Responses.pdf
-- Assumption-evidence table: Problem Notes.md
+- Raw responses file: /data/raw-responses.md
+- Assumption-evidence table: /docs/problem-notes.md
 - Commit link: [Paste your commit link here]
 
 ### Plan for Lab 04
