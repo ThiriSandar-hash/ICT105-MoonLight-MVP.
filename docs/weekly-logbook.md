@@ -64,7 +64,7 @@ Although Queue Booking is a useful idea, it received a lower NUF score (11) and 
 - Selected opportunity file: docs/selected-opportunity.md
 - GitHub issue screenshot: <img width="1918" height="1078" alt="Screenshot 2026-06-17 161744" src="https://github.com/user-attachments/assets/b779840f-047a-4ae4-8627-17c7e7932761" />
 
-- Commit link: https://github.com/ThiriSandar-hash/ICT105-MoonLight-MVP.
+- Commit link: https://github.com/ThiriSandar-hash/ICT105-MoonLight-MVP./commits?author=ThiriSandar-hash&since=2026-05-31&until=2026-06-23
 
 ### Plan for Lab 03
 
