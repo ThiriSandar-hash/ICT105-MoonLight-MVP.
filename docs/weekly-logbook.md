@@ -110,5 +110,3 @@ We decided to focus our MVP on simple expense recording, spending summaries, and
 ### Plan for Lab 04
 
 The team will define who the target users are, create personas to understand their behaviors, and write user stories to identify what features they need in the app.
-
--commit link:[https://github.com/ThiriSandar-hash/ICT105-MoonLight-MVP.]
