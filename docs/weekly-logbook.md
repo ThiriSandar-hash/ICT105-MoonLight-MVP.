@@ -104,10 +104,10 @@ We decided to focus our MVP on simple expense recording, spending summaries, and
 ### Evidence of Work
 
 - GitHub repository link: https://github.com/ThiriSandar-hash
-- Customer questions file: Customer Interview Questions.pdf
+- Customer questions file: /docs/customer-discovery- questions.md
 - Raw responses file: /data/raw-responses.md
 - Assumption-evidence table: /docs/problem-notes.md
-- Commit link: https://github.com/ThiriSandar-hash/ICT105-MoonLight-MVP.
+- Commit link: https://github.com/ThiriSandar-hash/ICT105-MoonLight-MVP./commits?author=ThiriSandar-hash&since=2026-05-31&until=2026-06-23
 
 ### Plan for Lab 04
 
